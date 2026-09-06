@@ -20,4 +20,4 @@ Python + Flask.
 
 ## Integrantes
 
-- [Colocar nombres de los integrantes del grupo]
+- [ JORDI JOSUE PARION AIGAJE]
