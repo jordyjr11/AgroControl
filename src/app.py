@@ -3,4 +3,13 @@ Sistema de Gestión de Agroquímicos AgroControl
 Módulo: Gestión de productos agroquímicos
 """
 
-print("AgroControl - Módulo de Gestión de Productos Agroquímicos")
+def iniciar_modulo():
+    print("Módulo de Gestión de Productos Agroquímicos")
+
+
+def mostrar_modulo():
+    print("Gestión de productos agroquímicos - AgroControl")
+
+
+if __name__ == "__main__":
+    iniciar_modulo()
